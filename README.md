@@ -1,0 +1,2 @@
+# Financial-Modeling-Valuation-Database-for-Microsoft-Corporation
+ The MSFT Financial Modeling &amp; Valuation Database on Google Sheets offers detailed analysis. It includes historical financials, DCF, and CCA for estimating stock value. The flexible spreadsheet allows scenario analysis and showcases proficiency in financial modeling and tech tools like Google Sheets and Power BI for effective decision-making.
